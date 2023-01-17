@@ -1,6 +1,6 @@
 # hello-world
 My first hello world repository
-# H1 Data Scientist Learning Journey
+# Data Scientist Learning Journey
 A day in my life as a **data science student.**
 1. Woke up and took a bath.
 2. Dressed up comfortably then ate. 
